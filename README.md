@@ -32,11 +32,6 @@ lock = threading.Lock()
 ## Why ROptim?  
 Because sometimes, brute force gets the job done. ROptim combines random guesses, threading magic, and a bit of luck to create a quirky but effective approach to optimization.  
 
-## Future Plans  
-- Add support for customizable convergence thresholds.  
-- Experiment with hybrid methods (random + gradient-based).  
-- Improve performance metrics and logging.  
-
 ## Contributions  
 Feel free to fork, star, and contribute! ROptim thrives on chaos, but we’ll gladly accept your well-thought-out pull requests.  
 
