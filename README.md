@@ -1,6 +1,6 @@
-```markdown
+
 # ROptim  
-**ROptim: Guessing its way to optimization glory with multithreaded chaos and a sprinkle of luck.**  
+**ROptim (Random Optimizer): Guessing its way to optimization glory with multithreaded chaos and a sprinkle of luck.**  
 
 ## What is ROptim?  
 ROptim is an experimental multithreaded optimizer that uses a stochastic refinement process (read: a lot of clever guessing) to narrow the gap between an initial random guess and a target value. Built with Python and a healthy dose of chaos, it leverages threading to speed up the guessing game.  
