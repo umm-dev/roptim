@@ -21,7 +21,7 @@ ROptim is an experimental multithreaded optimizer that uses a stochastic refinem
 import threading
 import random
 
-target = 480544453786534736784678346378432746**5
+target = 48
 guess = random.uniform(0.0, float(target))
 lr = 0.01
 lock = threading.Lock()
